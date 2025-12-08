@@ -49,8 +49,8 @@ Git | GitHub | VS Code | XAMPP | Linux
 ---
 
 ## 📫 Contact Me
-- Email: [your-email@example.com](mailto:your-email@example.com)  
-- LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com)  
+- Email: [your-email@example.com](mailto:melloukiotmane2@gmail.com)  
+- LinkedIn: [linkedin.com/in/your-linkedin]([https://linkedin.com](https://www.linkedin.com/in/mellouki-otman-93bb4b223/))  
 - GitHub: [github.com/Ot4man](https://github.com/Ot4man)
 
 ---
